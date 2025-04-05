@@ -3,4 +3,4 @@ __pycache__/
 *.pyc
 
 # Address book data file
-<!-- addressbook.pkl -->
+addressbook.pkl
